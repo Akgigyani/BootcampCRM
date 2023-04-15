@@ -1,0 +1,39 @@
+.page {
+    width:85%;
+    height: 100%;
+    position: absolute;
+}
+
+.navigation {
+    height: auto;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 100px;
+    border-bottom: 1px solid #000000;
+    /* border-radius: 10px; */
+    overflow: hidden;
+    /* padding: 20px; */
+}
+
+.searchBar {
+    width: 50%;
+    float: left;
+    padding: 10px;
+    /* border: 2px solid red; */
+}
+
+.rightNavbarLinks {
+    padding: 10px;
+}
+
+.rightNavbarLinks .icons{
+    padding-left: 15px;
+}
+
+.rightNavbarLinks .username {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    font-weight: 700;
+    padding-left: 10px;
+}

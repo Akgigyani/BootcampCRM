@@ -1,9 +1,20 @@
 .sidebar {
-    background: #181818;
+    background: #04192d;
     width: 100px;
     height: 100%;
     position: absolute;
     top: 0;
+    margin-left: -8px;
     z-index: 3;
     min-height: 500px;
+    text-align: center;
+}
+
+/* .navbar-brand {
+    
+} */
+
+.logo {
+    padding-top: 5px;
+    height: 40px;
 }
