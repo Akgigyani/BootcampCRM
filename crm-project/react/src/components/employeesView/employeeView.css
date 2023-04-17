@@ -1,0 +1,10 @@
+.employeesViewTable {
+    position: absolute;
+    left: 13%;
+    top: 15%;
+}
+
+th {
+    background-color: black;
+    color: wheat;
+}

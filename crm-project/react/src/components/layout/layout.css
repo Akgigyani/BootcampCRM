@@ -1,5 +1,9 @@
+body {
+    background-image: linear-gradient(90deg, #dadada, #fdfdfd);
+  }
+
 .page {
-    width:85%;
+    width:90%;
     height: 100%;
     position: absolute;
 }
@@ -9,7 +13,7 @@
     width: 100%;
     position: absolute;
     top: 0;
-    left: 100px;
+    left: 145px;
     border-bottom: 1px solid #000000;
     /* border-radius: 10px; */
     overflow: hidden;
